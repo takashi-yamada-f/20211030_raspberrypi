@@ -50,4 +50,8 @@
 
 <img src="https://user-images.githubusercontent.com/7508085/139283915-afd559e9-9643-408d-aa82-3b9f98127862.jpeg" width="500">
 
+## 【7】　ディープラーニングで画像認識
+
+Raspberry Pi 4のディープラーニングで画像認識する環境をゼロから1時間で構築する方法　|　からあげ
+<br>https://karaage.hatenadiary.jp/entry/rpi4-dl-setup
 
